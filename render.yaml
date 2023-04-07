@@ -1,0 +1,15 @@
+version: 1
+
+services:
+  - name: web
+    buildCommand: npm run build
+    startCommand: npm start
+    env:
+      - KEY1=value1
+      - KEY2=value2
+    port: 8080
+    healthCheckPath: /health
+
+routes:
+  - path: /
+    service: web
