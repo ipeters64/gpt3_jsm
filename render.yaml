@@ -2,7 +2,7 @@ version: 1
 
 services:
   - name: web
-    type: web
+    type: "web"
     buildCommand: npm run build
     startCommand: npm start
     env:
