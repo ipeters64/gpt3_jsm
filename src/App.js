@@ -1,5 +1,5 @@
 import React from 'react'
-
+// the website's layout //
 import { Footer, Blog, Possibility, Features, WhatGPT3, Header } from './containers';
 import { CTA, Brand, Navbar } from './components';
 import './App.css';
