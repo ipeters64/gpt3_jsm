@@ -1,4 +1,7 @@
-Live Site <a href= "https://chat-gpt3-x8l6.onrender.com">HERE</a>
+Live Site Here: https://chat-gpt3-x8l6.onrender.com
+
+<img width="1373" alt="Screenshot 2023-04-08 at 4 40 12 PM" src="https://user-images.githubusercontent.com/108476869/230741777-09a47459-6e3a-432e-a574-9c9e39f366a0.png">
+
 
 
 
