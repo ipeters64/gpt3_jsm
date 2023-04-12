@@ -1,3 +1,5 @@
+
+// exporting the components of the app by default //
 export { default as Blog } from './blog/Blog';
 export { default as Features } from './features/Features';
 export { default as Footer } from './footer/Footer';
