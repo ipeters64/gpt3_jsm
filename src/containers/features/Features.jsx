@@ -1,7 +1,7 @@
 import React from 'react';
 import { Feature } from '../../components';
 import './features.css';
-
+// defining the data displayed //
 const featuresData = [
   {
     title: 'Improving end distrusts instantly',
@@ -20,7 +20,7 @@ const featuresData = [
     text: 'Really boy law county she unable her sister. Feet you off its like like six. Among sex are leave law built now. In built table in an rapid blush.'
   },
 ]
-
+// featuresData gets rendered by .map and items //
 const Features = ({ title, text }) => {
   return (
     <div className="gpt3__features section__padding" id="features">
