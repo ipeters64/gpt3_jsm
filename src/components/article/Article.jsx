@@ -1,6 +1,6 @@
 import React from 'react'
 import './article.css';
-
+// Article Cards //
 const Article = ({ imgUrl, date, text }) => {
   return (
     <div className="gpt3__blog-container_article">
